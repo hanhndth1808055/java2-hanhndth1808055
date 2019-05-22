@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+
+
+<Pane fx:controller="jv2_190520_inclass1.StudentName" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <TextField fx:id="txtName" layoutX="226.0" layoutY="77.0" promptText="Insert name" />
+      <Button onAction="#add" layoutX="200.0" layoutY="126.0" mnemonicParsing="false" text="Add" />
+      <Button onAction="#print" layoutX="349.0" layoutY="126.0" mnemonicParsing="false" text="Print" />
+      <TextArea fx:id="txtResult" layoutX="68.0" layoutY="170.0" prefHeight="200.0" prefWidth="464.0" />
+   </children>
+</Pane>

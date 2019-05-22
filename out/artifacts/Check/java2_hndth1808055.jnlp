@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="java2_hndth1808055.jnlp">
+  <information>
+    <title>Check</title>
+    <vendor>Unknown</vendor>
+    <description>Check</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="java2_hndth1808055.jar" size="8324" download="eager" />
+  </resources>
+  <jfx:javafx-desc  width="600" height="400" main-class="jv2_190520_inclass_check.Main"  name="Check" />
+  <update check="background"/>
+</jnlp>

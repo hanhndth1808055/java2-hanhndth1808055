@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+
+
+<Pane fx:controller="jv2_190520_inclass_check.Student" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <TextField fx:id="txtName" layoutX="226.0" layoutY="73.0" promptText="Name" />
+      <Button onAction="#addStudent" layoutX="274.0" layoutY="147.0" mnemonicParsing="false" text="Add SV" />
+      <Hyperlink onAction="#toListPane" layoutX="481.0" layoutY="325.0" text="Go to list &gt;&gt;" />
+   </children>
+</Pane>
