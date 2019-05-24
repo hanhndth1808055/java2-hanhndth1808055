@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.text.*?>
+<?import javafx.scene.control.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+
+<Pane fx:controller="jv2_190522_inclass2.studentfx.StudentController" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="490.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <TextField fx:id="txtName" layoutX="226.0" layoutY="58.0" promptText="Insert name">
+         <font>
+            <Font size="20.0" />
+         </font>
+      </TextField>
+      <TextField fx:id="txtClass" layoutX="226.0" layoutY="210.0" promptText="Insert Class">
+         <font>
+            <Font size="20.0" />
+         </font>
+      </TextField>
+      <TextField fx:id="txtStudentNumber" layoutX="226.0" layoutY="292.0" promptText="Insert student number">
+         <font>
+            <Font size="20.0" />
+         </font>
+      </TextField>
+      <Text layoutX="75.0" layoutY="87.0" strokeType="OUTSIDE" strokeWidth="0.0" text="NAME">
+         <font>
+            <Font size="20.0" />
+         </font>
+      </Text>
+      <Text layoutX="82.0" layoutY="151.0" strokeType="OUTSIDE" strokeWidth="0.0" text="DOB">
+         <font>
+            <Font size="20.0" />
+         </font>
+      </Text>
+      <Text layoutX="75.0" layoutY="240.0" strokeType="OUTSIDE" strokeWidth="0.0" text="CLASS">
+         <font>
+            <Font size="20.0" />
+         </font>
+      </Text>
+      <Text layoutX="17.0" layoutY="322.0" strokeType="OUTSIDE" strokeWidth="0.0" text="STUDENT NUMBER">
+         <font>
+            <Font size="20.0" />
+         </font>
+      </Text>
+      <DatePicker fx:id="dateDOB" layoutX="226.0" layoutY="125.0" prefHeight="37.0" prefWidth="248.0" promptText="Insert birthday" />
+      <Button onAction="#submit" layoutX="274.0" layoutY="349.0" mnemonicParsing="false" text="SUBMIT">
+         <font>
+            <Font size="20.0" />
+         </font>
+      </Button>
+      <Text fx:id="txtMsgSuccess" fill="#19fc00" layoutX="71.0" layoutY="447.0" strokeType="OUTSIDE" strokeWidth="0.0" text="SUCCESS" visible="false">
+         <font>
+            <Font size="20.0" />
+         </font>
+      </Text>
+      <Text fx:id="txtMsgFail" fill="RED" layoutX="484.0" layoutY="443.0" strokeType="OUTSIDE" strokeWidth="0.0" text="FAIL" visible="false">
+         <font>
+            <Font size="20.0" />
+         </font>
+      </Text>
+      <Hyperlink onAction="#toList" layoutX="444.0" layoutY="408.0" text="Go to List &gt;&gt;">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Hyperlink>
+   </children>
+</Pane>

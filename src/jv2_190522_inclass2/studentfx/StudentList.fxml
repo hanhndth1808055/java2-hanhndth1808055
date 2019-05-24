@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.text.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+
+
+<Pane fx:controller="jv2_190522_inclass2.studentfx.StudentList" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <Text layoutX="234.0" layoutY="47.0" strokeType="OUTSIDE" strokeWidth="0.0" text="STUDENT LIST">
+         <font>
+            <Font size="21.0" />
+         </font>
+      </Text>
+      <TextArea fx:id="txtList" layoutX="69.0" layoutY="76.0" prefHeight="292.0" prefWidth="463.0" />
+      <Hyperlink onAction="#toAdd" layoutX="69.0" layoutY="27.0" text="&lt;&lt; Back" />
+      <Button onAction="#show" layoutX="494.0" layoutY="26.0" mnemonicParsing="false" text="Show" />
+   </children>
+</Pane>
