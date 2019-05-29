@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.text.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+
+<Pane fx:controller="java2_190528_assignment4.Count" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <Text layoutX="234.0" layoutY="64.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Count Down">
+         <font>
+            <Font size="24.0" />
+         </font>
+      </Text>
+      <TextArea fx:id="txtCount" disable="true" layoutX="200.0" layoutY="109.0" prefHeight="38.0" prefWidth="200.0" promptText="Let's count down">
+         <font>
+            <Font size="20.0" />
+         </font>
+      </TextArea>
+      <Button onAction="#countDown" layoutX="454.0" layoutY="42.0" mnemonicParsing="false" text="COUNT" />
+   </children>
+</Pane>
