@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.text.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+
+
+<Pane fx:controller="jv2_190607_lab9.ChangeController" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <Text fx:id="txtLabelAmount" layoutX="90.0" layoutY="125.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Amount">
+         <font>
+            <Font size="15.0" />
+         </font>
+      </Text>
+      <TextField fx:id="txtAmount" layoutX="247.0" layoutY="104.0" prefHeight="25.0" prefWidth="271.0" promptText="Amount">
+         <font>
+            <Font size="15.0" />
+         </font>
+      </TextField>
+      <Text fx:id="txtLabelChanged" layoutX="87.0" layoutY="251.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Changed">
+         <font>
+            <Font size="15.0" />
+         </font>
+      </Text>
+      <RadioButton fx:id="rbVN" onAction="#convertVN" layoutX="180.0" layoutY="162.0" mnemonicParsing="false" text="VND" selected="true" />
+      <RadioButton fx:id="rbUS" onAction="#convertUS" layoutX="426.0" layoutY="162.0" mnemonicParsing="false" text="USD" />
+      <Button fx:id="change" onAction="#change" layoutX="259.0" layoutY="185.0" mnemonicParsing="false" text="Exchange">
+         <font>
+            <Font size="15.0" />
+         </font>
+      </Button>
+      <Text fx:id="txtLabel" layoutX="203.0" layoutY="36.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Currency Exchange">
+         <font>
+            <Font size="20.0" />
+         </font>
+      </Text>
+      <TextField fx:id="txtResult" layoutX="247.0" layoutY="230.0" prefHeight="25.0" prefWidth="271.0" promptText="Changed">
+         <font>
+            <Font size="15.0" />
+         </font>
+      </TextField>
+      <RadioButton fx:id="rbEN" onAction="#rbEN" layoutX="180.0" layoutY="311.0" mnemonicParsing="false" text="EN" selected="true" />
+      <RadioButton fx:id="rbVI" onAction="#rbVI" layoutX="428.0" layoutY="311.0" mnemonicParsing="false" text="VI" />
+   </children>
+</Pane>
