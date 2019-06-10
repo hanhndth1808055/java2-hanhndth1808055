@@ -9,12 +9,12 @@ public class UserDAO implements UserInterface {
 
     private static UserDAO instance;
 
-    private UserDAO(){
+    private UserDAO() {
 
     }
 
-    public static UserDAO getInstance(){
-        if(instance == null){
+    public static UserDAO getInstance() {
+        if (instance == null) {
             instance = new UserDAO();
         }
         return instance;
@@ -25,13 +25,14 @@ public class UserDAO implements UserInterface {
     public boolean create(User u) {
         Connector cn = Connector.getInstance();
         String sql = "INSERT INTO user (username,email,password)" +
-                " VALUES('"+u.getUsername()+"','"+u.getEmail()+"','"+
-                u.getPassword()+"')";
+                " VALUES('" + u.getUsername() + "','" + u.getEmail() + "','" +
+                u.getPassword() + "')";
         try {
-            if(cn.updateQuery(sql)>0){
+            if (cn.updateQuery(sql) > 0) {
                 return true;
             }
-        }catch (Exception e){}
+        } catch (Exception e) {
+        }
 
         return false;
     }
@@ -43,6 +44,19 @@ public class UserDAO implements UserInterface {
 
     @Override
     public boolean update(User u) {
+        String sql = "UPDATE user set username = '" + u.username + "', email = '" + u.email + "', password = '" + u.password + "' WHERE id =" + u.id;
+        Connector cn = Connector.getInstance();
+        String sql2 = "SELECT * FROM user WHERE username = '" + u.username + "' OR email = '" + u.email + "'";
+        try {
+            if (cn.getQuery(sql2) != null) {
+                return false;
+            }
+            if (cn.updateQuery(sql) > 0) {
+                return true;
+            }
+        } catch (Exception e) {
+
+        }
         return false;
     }
 
@@ -51,16 +65,33 @@ public class UserDAO implements UserInterface {
         return false;
     }
 
-    public User getUser(Integer id){
-        String sql = "SELECT * FROM user WHERE id = "+id;
+    public boolean login(String username, String password) {
+        String sql = "SELECT * from user WHERE username ='" + username + "' AND password = '" + password + "'";
         Connector cn = Connector.getInstance();
         try {
             ResultSet rs = cn.getQuery(sql);
-            while (rs.next()){
-                return new User(rs.getInt("id"),rs.getString("username"),
-                        rs.getString("email"),rs.getString("password"));
+            if (rs.next()) {
+                return true;
+            } else {
+                return false;
             }
-        }catch (Exception e){}
+        } catch (Exception e) {
+
+        }
+        return false;
+    }
+
+    public User getUser(Integer id) {
+        String sql = "SELECT * FROM user WHERE id = " + id;
+        Connector cn = Connector.getInstance();
+        try {
+            ResultSet rs = cn.getQuery(sql);
+            while (rs.next()) {
+                return new User(rs.getInt("id"), rs.getString("username"),
+                        rs.getString("email"), rs.getString("password"));
+            }
+        } catch (Exception e) {
+        }
         return null;
     }
 }

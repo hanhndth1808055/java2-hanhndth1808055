@@ -2,50 +2,46 @@
 <project version="4">
   <component name="ArtifactsWorkspaceSettings">
     <artifacts-to-build>
-      <artifact name="lab9_2" />
+      <artifact name="sampleAssignment7" />
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9a1683aa-a1f6-4bf1-b836-abee3901f2df" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/assignment6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/lab9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/lab9_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/sampletimer.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/resourceBundles.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/connector/Connector.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java2_190605_assignment6/Edit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java2_190605_assignment6/Home.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java2_190605_assignment6/List.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java2_190605_assignment6/Login.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java2_190605_assignment6/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java2_190605_assignment6/Register.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java2_190605_assignment6/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java2_190605_assignment6/UserDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java2_190605_assignment6/UserInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java2_190605_assignment6/edit.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java2_190605_assignment6/home.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java2_190605_assignment6/list.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java2_190605_assignment6/login.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java2_190605_assignment6/register.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jv2_190605_inclass7/UserDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jv2_190605_inclass7/UserInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jv2_190607_lab9/ChangeController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jv2_190607_lab9/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jv2_190607_lab9/change.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jv2_190607_lab9/lab9.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jv2_190607_lab9/lab9_en_US.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jv2_190607_lab9/lab9_vi_VN.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jv2_190607_lab9_2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jv2_190607_lab9_2/TimeController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jv2_190607_lab9_2/clock.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jv2_190607_session9/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jv2_190607_session9/session9_en_US.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jv2_190607_session9/session9_vi_VN.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sampleTimer/Controller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sampleTimer/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sampleTimer/timer.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/sampleAssignment7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jv2_assignment5/Edit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jv2_assignment5/Home.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jv2_assignment5/List.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jv2_assignment5/LogIn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jv2_assignment5/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jv2_assignment5/Register.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jv2_assignment5/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jv2_assignment5/edit.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jv2_assignment5/home.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jv2_assignment5/list.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jv2_assignment5/login.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jv2_assignment5/register.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jv2_session7/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jv2_session7/UserDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jv2_session7/UserInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/resourceBundles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/resourceBundles.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java2_hndth1808055/java2_190529_assignment5/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java2_hndth1808055/java2_190529_assignment5/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java2_hndth1808055/java2_190605_assignment6/Edit.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java2_hndth1808055/java2_190605_assignment6/Edit.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java2_hndth1808055/java2_190605_assignment6/List.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java2_hndth1808055/java2_190605_assignment6/List.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java2_hndth1808055/java2_190605_assignment6/Register.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java2_hndth1808055/java2_190605_assignment6/Register.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java2_hndth1808055/java2_190605_assignment6/UserDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java2_hndth1808055/java2_190605_assignment6/UserDAO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java2_hndth1808055/java2_190605_assignment6/list.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java2_hndth1808055/java2_190605_assignment6/list.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java2_hndth1808055/sampleTimer/Controller$1$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java2_hndth1808055/sampleTimer/Controller$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java2_hndth1808055/sampleTimer/Controller.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java2_hndth1808055/sampleTimer/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java2_hndth1808055/sampleTimer/timer.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java2_190605_assignment6/Edit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java2_190605_assignment6/Edit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java2_190605_assignment6/List.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java2_190605_assignment6/List.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java2_190605_assignment6/Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java2_190605_assignment6/Login.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java2_190605_assignment6/Register.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java2_190605_assignment6/Register.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java2_190605_assignment6/UserDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java2_190605_assignment6/UserDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java2_190605_assignment6/list.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/java2_190605_assignment6/list.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java2_190605_assignment6/login.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/java2_190605_assignment6/login.fxml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -64,6 +60,7 @@
           <entry key="project.open.time.19" value="2" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.21" value="2" />
+          <entry key="project.open.time.22" value="1" />
           <entry key="project.open.time.24" value="1" />
           <entry key="project.open.time.25" value="1" />
           <entry key="project.open.time.28" value="1" />
@@ -72,15 +69,15 @@
           <entry key="project.open.time.31" value="2" />
           <entry key="project.open.time.38" value="1" />
           <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="18" />
+          <entry key="project.opened" value="19" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="a" value="143" />
           <entry key="dummy" value="14" />
-          <entry key="fxml" value="1045" />
-          <entry key="java" value="22338" />
+          <entry key="fxml" value="1272" />
+          <entry key="java" value="25100" />
           <entry key="properties" value="173" />
           <entry key="txt" value="53" />
         </counts>
@@ -88,19 +85,19 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="143" />
-          <entry key="JAVA" value="22337" />
+          <entry key="JAVA" value="25099" />
           <entry key="PLAIN_TEXT" value="67" />
           <entry key="Properties" value="173" />
           <entry key="SQL" value="1" />
-          <entry key="XML" value="1045" />
+          <entry key="XML" value="1272" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="a" value="1" />
-          <entry key="fxml" value="41" />
+          <entry key="fxml" value="49" />
           <entry key="iml" value="1" />
-          <entry key="java" value="194" />
+          <entry key="java" value="226" />
           <entry key="properties" value="20" />
           <entry key="txt" value="4" />
           <entry key="xml" value="2" />
@@ -110,10 +107,10 @@
         <counts>
           <entry key="HTML" value="1" />
           <entry key="IDEA_MODULE" value="1" />
-          <entry key="JAVA" value="194" />
+          <entry key="JAVA" value="226" />
           <entry key="PLAIN_TEXT" value="4" />
           <entry key="Properties" value="20" />
-          <entry key="XML" value="43" />
+          <entry key="XML" value="51" />
         </counts>
       </usages-collector>
     </session>
@@ -123,34 +120,40 @@
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/jv2_190607_lab9_2/clock.fxml">
-              <provider editor-type-id="JavaFX-Scene-Builder" />
+            <entry file="file://$PROJECT_DIR$/src/connector/Connector.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="210">
-                  <caret line="26" column="26" selection-start-line="26" selection-start-column="26" selection-end-line="26" selection-end-column="26" />
+                <state relative-caret-position="170">
+                  <caret line="13" selection-start-line="13" selection-end-line="13" />
                 </state>
               </provider>
             </entry>
           </file>
           <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/sampleTimer/timer.fxml">
+            <entry file="file://$PROJECT_DIR$/src/java2_190605_assignment6/UserDAO.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="578">
+                  <caret line="74" column="13" lean-forward="true" selection-start-line="74" selection-start-column="13" selection-end-line="74" selection-end-column="13" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/java2_190605_assignment6/login.fxml">
               <provider editor-type-id="JavaFX-Scene-Builder" />
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="102">
-                  <caret line="15" column="29" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="29" />
+                <state relative-caret-position="323">
+                  <caret line="50" selection-start-line="50" selection-end-line="50" />
                 </state>
               </provider>
             </entry>
           </file>
           <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/src/jv2_190607_lab9_2/TimeController.java">
+            <entry file="file://$PROJECT_DIR$/src/java2_190605_assignment6/Register.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="186">
-                  <caret line="31" column="46" selection-start-line="31" selection-start-column="46" selection-end-line="31" selection-end-column="46" />
+                <state relative-caret-position="340">
+                  <caret line="20" column="19" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
                   <folding>
                     <element signature="imports" expanded="true" />
-                    <element signature="e#1440#1441#0" expanded="true" />
-                    <element signature="e#1467#1468#0" expanded="true" />
                   </folding>
                 </state>
               </provider>
@@ -160,23 +163,11 @@
       </split-first>
       <split-second>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/sampleTimer/Main.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="68">
-                  <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-                  <folding>
-                    <element signature="imports" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
           <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/src/sampleTimer/Controller.java">
+            <entry file="file://$PROJECT_DIR$/src/java2_190605_assignment6/Login.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="51">
-                  <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+                <state relative-caret-position="306">
+                  <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
                   <folding>
                     <element signature="imports" expanded="true" />
                   </folding>
@@ -193,8 +184,8 @@
       <list>
         <option value="Interface" />
         <option value="XML Properties File" />
-        <option value="Class" />
         <option value="JavaFXApplication" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -204,13 +195,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/jv2_190527_assignment3/Main.java" />
-        <option value="$PROJECT_DIR$/src/jv2_190527_inclass4/Main.java" />
-        <option value="$PROJECT_DIR$/src/jv2_190527_inclass4/Counter.java" />
-        <option value="$PROJECT_DIR$/src/jv2_190527_inclass4/DemoSync.java" />
-        <option value="$PROJECT_DIR$/src/jv2_190527_assignment3/SubThread.java" />
-        <option value="$PROJECT_DIR$/src/jv2_190527_inclass4/keyex1/Main.java" />
-        <option value="$PROJECT_DIR$/src/jv2_190527_inclass4/keyex1/Snt.java" />
         <option value="$PROJECT_DIR$/src/jv2_190527_inclass4/example1/Main.java" />
         <option value="$PROJECT_DIR$/src/jv2_190527_inclass4/example1/SubThread.java" />
         <option value="$PROJECT_DIR$/src/jv2_190527_inclass4/example1/Snt.java" />
@@ -227,7 +211,6 @@
         <option value="$PROJECT_DIR$/src/java2_190529_assignment5/Main.java" />
         <option value="$PROJECT_DIR$/src/java2_190605_assignment6/home.fxml" />
         <option value="$PROJECT_DIR$/src/java2_190605_assignment6/User.java" />
-        <option value="$PROJECT_DIR$/src/java2_190605_assignment6/Edit.java" />
         <option value="$PROJECT_DIR$/src/jv2_190605_inclass7/User.java" />
         <option value="$PROJECT_DIR$/src/java2_190605_assignment6/Main.java" />
         <option value="$PROJECT_DIR$/src/java2_190605_assignment6/Home.java" />
@@ -237,7 +220,6 @@
         <option value="$PROJECT_DIR$/src/connector/Connector.java" />
         <option value="$PROJECT_DIR$/src/jv2_190605_inclass7/UserDAO.java" />
         <option value="$PROJECT_DIR$/src/jv2_190605_inclass7/UserInterface.java" />
-        <option value="$PROJECT_DIR$/src/java2_190605_assignment6/Register.java" />
         <option value="$PROJECT_DIR$/src/jv2_190607_session9/session9_vi.properties" />
         <option value="$PROJECT_DIR$/src/jv2_190607_session9/session9_US.properties" />
         <option value="$PROJECT_DIR$/src/jv2_190607_session9/session9_us_US.properties" />
@@ -255,6 +237,15 @@
         <option value="$PROJECT_DIR$/src/sampleTimer/timer.fxml" />
         <option value="$PROJECT_DIR$/src/jv2_190607_lab9_2/clock.fxml" />
         <option value="$PROJECT_DIR$/src/jv2_190607_lab9_2/TimeController.java" />
+        <option value="$PROJECT_DIR$/src/jv2_assignment5/List.java" />
+        <option value="$PROJECT_DIR$/src/java2_190605_assignment6/list.fxml" />
+        <option value="$PROJECT_DIR$/src/java2_190605_assignment6/List.java" />
+        <option value="$PROJECT_DIR$/src/java2_190605_assignment6/Register.java" />
+        <option value="$PROJECT_DIR$/src/java2_190605_assignment6/Edit.java" />
+        <option value="$PROJECT_DIR$/src/jv2_assignment5/Register.java" />
+        <option value="$PROJECT_DIR$/src/java2_190605_assignment6/login.fxml" />
+        <option value="$PROJECT_DIR$/src/java2_190605_assignment6/UserDAO.java" />
+        <option value="$PROJECT_DIR$/src/java2_190605_assignment6/Login.java" />
       </list>
     </option>
   </component>
@@ -276,6 +267,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -448,20 +441,18 @@
               <item name="java2_hndth1808055" type="b2602c69:ProjectViewProjectNode" />
               <item name="java2_hndth1808055" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="sampleTimer" type="462c0819:PsiDirectoryNode" />
+              <item name="jv2_assignment5" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560050180106" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560135539675" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../tech/t1809e" />
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
@@ -473,11 +464,11 @@
       <recent name="E:\01_CODING\java2_hndth1808055" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\01_CODING\java2_hndth1808055\src" />
       <recent name="E:\01_CODING\java2_hndth1808055\src\sampleTimer" />
       <recent name="E:\01_CODING\java2_hndth1808055\src\jv2_190607_lab9_2" />
       <recent name="E:\01_CODING\java2_hndth1808055\src\jv2_190607_lab9" />
       <recent name="E:\01_CODING\java2_hndth1808055\src\java2_190605_assignment6" />
-      <recent name="E:\01_CODING\java2_hndth1808055\src\java2_190528_assignment4" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -494,7 +485,7 @@
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="jv2_190607_lab9_2.Main" />
+      <option name="MAIN_CLASS_NAME" value="java2_190605_assignment6.Main" />
       <module name="java2_hndth1808055" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -535,18 +526,19 @@
       <workItem from="1559903740739" duration="12889000" />
       <workItem from="1559993119343" duration="2671000" />
       <workItem from="1560005239199" duration="600000" />
-      <workItem from="1560044203217" duration="4886000" />
+      <workItem from="1560044203217" duration="18215000" />
+      <workItem from="1560132920386" duration="2568000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="107372000" />
+    <option name="totallyTimeSpent" value="123269000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="886" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21722364" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21979435" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -554,8 +546,8 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32978722" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.46409574" />
+      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.32978722" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.46409574" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39893618" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -613,182 +605,29 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/java2_190605_assignment6/home.fxml">
-      <provider editor-type-id="JavaFX-Scene-Builder" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="629">
-          <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java2_190605_assignment6/List.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java2_190605_assignment6/Login.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java2_190605_assignment6/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="19" column="71" selection-start-line="19" selection-start-column="71" selection-end-line="19" selection-end-column="71" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java2_190605_assignment6/Edit.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java2_190605_assignment6/UserInterface.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java2_190605_assignment6/Home.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="13" column="67" selection-start-line="13" selection-start-column="67" selection-end-line="13" selection-end-column="67" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java2_190605_assignment6/UserDAO.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java2_190605_assignment6/register.fxml">
-      <provider editor-type-id="JavaFX-Scene-Builder" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="31" column="16" selection-start-line="31" selection-start-column="16" selection-end-line="31" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/jv2_190605_inclass7/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="12" column="33" lean-forward="true" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/util/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="143">
-          <caret line="106" column="13" selection-start-line="106" selection-start-column="13" selection-end-line="106" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/jv2_190605_inclass7/UserDAO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java2_190605_assignment6/edit.fxml">
-      <provider editor-type-id="JavaFX-Scene-Builder" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="30" column="15" selection-start-line="30" selection-start-column="15" selection-end-line="30" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/connector/Connector.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java2_190529_assignment5/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1156">
-          <caret line="68" column="9" selection-start-line="68" selection-start-column="9" selection-end-line="68" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/jv2_190605_inclass7/UserInterface.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="28" selection-start-column="28" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java2_190605_assignment6/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-391">
-          <caret line="10" column="27" lean-forward="true" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/util/ResourceBundle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="143">
-          <caret line="781" selection-start-line="781" selection-end-line="781" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java2_190605_assignment6/Register.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="313">
-          <caret line="23" column="13" lean-forward="true" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/jv2_190607_session9/session9_vi.properties" />
-    <entry file="file://$PROJECT_DIR$/src/jv2_190607_session9/session9_vi.xml" />
-    <entry file="file://$PROJECT_DIR$/src/jv2_190607_session9/session9_US.xml" />
     <entry file="file://$PROJECT_DIR$/src/jv2_190607_session9/session9_US.properties" />
     <entry file="file://$PROJECT_DIR$/src/jv2_190607_session9/session9_VN.properties" />
     <entry file="file://$PROJECT_DIR$/src/jv2_190607_session9/session9_us_US.properties" />
     <entry file="file://$PROJECT_DIR$/src/jv2_190607_session9/session9.properties" />
     <entry file="file://$PROJECT_DIR$/src/jv2_190607_session9/session9_en_US.properties">
-      <provider editor-type-id="ResourceBundle" />
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="24" selection-start-column="24" selection-end-column="24" />
         </state>
       </provider>
+      <provider editor-type-id="ResourceBundle" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/jv2_190607_session9/session9_vi_VN.properties">
-      <provider editor-type-id="ResourceBundle" />
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="8" selection-start-column="8" selection-end-column="8" />
         </state>
       </provider>
+      <provider editor-type-id="ResourceBundle" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/jv2_190607_lab9/lab9.properties">
-      <provider editor-type-id="ResourceBundle" />
       <provider selected="true" editor-type-id="text-editor" />
+      <provider editor-type-id="ResourceBundle" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/jv2_190607_session9/Main.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -808,9 +647,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="71">
           <caret line="65" column="58" selection-start-line="65" selection-start-column="46" selection-end-line="65" selection-end-column="58" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -823,20 +659,20 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/jv2_190607_lab9/lab9_en_US.properties">
-      <provider editor-type-id="ResourceBundle" />
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="22" lean-forward="true" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
         </state>
       </provider>
+      <provider editor-type-id="ResourceBundle" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/jv2_190607_lab9/lab9_vi_VN.properties">
-      <provider editor-type-id="ResourceBundle" />
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="32" lean-forward="true" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
         </state>
       </provider>
+      <provider editor-type-id="ResourceBundle" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/jv2_190607_lab9_2/Main.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -903,16 +739,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/jv2_190607_lab9_2/RunThread.java" />
-    <entry file="file://$PROJECT_DIR$/src/sampleTimer/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sampleTimer/Main.java" />
     <entry file="file://$PROJECT_DIR$/src/jv2_190524_assignment3/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="321">
@@ -920,40 +747,192 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/sampleTimer/timer.fxml">
-      <provider editor-type-id="JavaFX-Scene-Builder" />
+    <entry file="file://$PROJECT_DIR$/src/sampleTimer/timer.fxml" />
+    <entry file="file://$PROJECT_DIR$/src/sampleTimer/Controller.java" />
+    <entry file="file://$PROJECT_DIR$/src/jv2_190607_lab9_2/TimeController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="15" column="29" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="29" />
+        <state relative-caret-position="186">
+          <caret line="31" column="46" selection-start-line="31" selection-start-column="46" selection-end-line="31" selection-end-column="46" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jv2_assignment5/edit.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/jv2_190607_lab9_2/clock.fxml">
       <provider editor-type-id="JavaFX-Scene-Builder" />
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
+        <state relative-caret-position="442">
           <caret line="26" column="26" selection-start-line="26" selection-start-column="26" selection-end-line="26" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/sampleTimer/Controller.java">
+    <entry file="file://$PROJECT_DIR$/src/jv2_session7/User.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/javafx-src.zip!/javafx/fxml/Initializable.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        <state relative-caret-position="17">
+          <caret line="35" column="17" lean-forward="true" selection-start-line="35" selection-start-column="17" selection-end-line="35" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/javafx-src.zip!/javafx/collections/ObservableList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="131" column="17" lean-forward="true" selection-start-line="131" selection-start-column="17" selection-end-line="131" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jv2_assignment5/LogIn.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java2_190605_assignment6/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/jv2_190607_lab9_2/TimeController.java">
+    <entry file="file://$PROJECT_DIR$/src/jv2_assignment5/List.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="186">
-          <caret line="31" column="46" selection-start-line="31" selection-start-column="46" selection-end-line="31" selection-end-column="46" />
+        <state relative-caret-position="442">
+          <caret line="26" column="34" lean-forward="true" selection-start-line="26" selection-start-column="34" selection-end-line="26" selection-end-column="34" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1440#1441#0" expanded="true" />
-            <element signature="e#1467#1468#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java2_190605_assignment6/list.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jv2_assignment5/list.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="37" lean-forward="true" selection-start-line="13" selection-start-column="37" selection-end-line="13" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java2_190605_assignment6/UserInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="27" lean-forward="true" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jv2_assignment5/Edit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jv2_session7/UserDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="301">
+          <caret line="44" column="35" lean-forward="true" selection-start-line="44" selection-start-column="35" selection-end-line="44" selection-end-column="35" />
+          <folding>
+            <element signature="e#969#970#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java2_190605_assignment6/Edit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="31" column="8" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java2_190605_assignment6/edit.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="25" selection-start-line="29" selection-start-column="25" selection-end-line="29" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jv2_assignment5/Register.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="24" column="25" lean-forward="true" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java2_190605_assignment6/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="697">
+          <caret line="47" selection-start-line="47" selection-end-line="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java2_190605_assignment6/register.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-113">
+          <caret line="9" column="14" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/connector/Connector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java2_190605_assignment6/login.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="50" selection-start-line="50" selection-end-line="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java2_190605_assignment6/UserDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="74" column="13" lean-forward="true" selection-start-line="74" selection-start-column="13" selection-end-line="74" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java2_190605_assignment6/Register.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="19" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java2_190605_assignment6/Login.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -964,7 +943,7 @@
       <state key="ArtifactsStructureConfigurable.UI">
         <settings>
           <artifact-editor />
-          <last-edited>sampletimer</last-edited>
+          <last-edited>sampleAssignment7</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

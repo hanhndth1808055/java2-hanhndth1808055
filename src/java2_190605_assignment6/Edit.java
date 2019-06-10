@@ -1,6 +1,5 @@
 package java2_190605_assignment6;
 
-import javafx.fxml.FXML;
 import javafx.fxml.FXMLLoader;
 import javafx.fxml.Initializable;
 import javafx.scene.Parent;
@@ -24,7 +23,18 @@ public class Edit implements Initializable {
         txtPassword.setText(userEdit.getPassword());
     }
 
-    public void update(){
+    public void update() throws Exception {
+        userEdit.username = txtUsername.getText();
+        userEdit.email = txtEmail.getText();
+        userEdit.password = txtPassword.getText();
+        UserDAO ud = UserDAO.getInstance();
+        ud.update(userEdit);
+        if (!ud.update(userEdit)) {
+            txtEmail.setText("This email or this username is selected. Please select other choices.");
+        } else {
+            Parent root = FXMLLoader.load(getClass().getResource("list.fxml"));
+            Main.MainStage.getScene().setRoot(root);
+        }
 
     }
 
